@@ -1,0 +1,1 @@
+# automation_template_wdio
